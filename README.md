@@ -9,7 +9,7 @@ As a part of the final project for UMN AEM 5451 Optimal Esitimation, these codes
 - [Acknowledgments](#acknowledgments)
 
 ## Usage
-Open the code in MATLAB. Run the `main` function to execute the codes. There are several modules in the `main` function: 
+Open the code in MATLAB. Run the `main` function to execute the codes. There are two modules in the `main` function: 
 - `linearized_state_and_measurement()` simulates the linearized discrete-time dynamics and measurement models near the nominal trajectory, assuming a reasonable initial state perturbation and assuming no process noise, measurement noise, or control input perturbations. It plots
     + lienarized states vs full nonlinear states
     + lienarized measurements vs actual measurements
