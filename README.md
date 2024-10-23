@@ -1,6 +1,6 @@
 # Cooperative-UAV-UGV-Localization with Extended Kalman Filter
 
-As a part of the final project for UMN AEM 5451 Optimal Esitimation, these codes are developed to cooperatively estimate the pose of a UAV and a UGV, given noisy ranges and azimuth angles of the UGV relative to the UAV, noisy azimuth angles of  the UAV relative to the UGV, and noisy UAV GPS measurements.
+As a part of the final project for UMN AEM 5451 Optimal Estimation, these codes are developed to cooperatively estimate the pose of a UAV and a UGV, given noisy ranges and azimuth angles of the UGV relative to the UAV, noisy azimuth angles of  the UAV relative to the UGV, and noisy UAV GPS measurements.
 
 **Authors:** Xiaoshan Lin
 
